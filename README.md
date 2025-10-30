@@ -2,7 +2,7 @@
 
 This repository contains the source code and input dataset used in the paper:
 
-**"Assessing and Projecting Soil and Ecosystem Respiration on the Earth's Third Pole Using Knowledge-Guided Multi-Task Deep Learning"**
+**"Climate change intensifies carbon emissions from the Earth’s Third Pole: Projected trajectories of soil and ecosystem respiration"**
 
 ## Contents
 
